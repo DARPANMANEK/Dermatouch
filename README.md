@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/2491d155-da31-4115-b727-67b33f719460
 Ecommerce App
 A full-stack application with a React Native mobile app, React admin panel, and Node.js + Express backend, using Supabase for database and storage.
 
@@ -44,8 +43,13 @@ SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhY
 SUPABASE_PUBLIC_URL=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpudmdhbHV0dGNpamJ3Y2VqZ2hjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk2OTYzMTcsImV4cCI6MjA3NTI3MjMxN30.iJVXU31DaUtmFm8iBeA-tlM7zkeDMAtW2cD_mA_zlIs
 SUPABASE_BUCKET=interview
 
+Repos
+https://github.com/DARPANMANEK/application-ecommerce
+https://github.com/DARPANMANEK/admin-ecommerce
+https://github.com/DARPANMANEK/backend-ecommerce
 
 https://github.com/user-attachments/assets/1daa3b41-8aa6-4681-ba6d-3f39ee3d6fc9
+
 https://github.com/user-attachments/assets/e3eb01ed-8ee3-4348-ada2-ac0a996fe33a
 
 
