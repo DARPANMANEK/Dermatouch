@@ -44,9 +44,9 @@ SUPABASE_PUBLIC_URL=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSI
 SUPABASE_BUCKET=interview
 
 Repos
-https://github.com/DARPANMANEK/application-ecommerce
-https://github.com/DARPANMANEK/admin-ecommerce
-https://github.com/DARPANMANEK/backend-ecommerce
+- https://github.com/DARPANMANEK/application-ecommerce
+- https://github.com/DARPANMANEK/admin-ecommerce
+- https://github.com/DARPANMANEK/backend-ecommerce
 
 https://github.com/user-attachments/assets/1daa3b41-8aa6-4681-ba6d-3f39ee3d6fc9
 
